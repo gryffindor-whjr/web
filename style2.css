@@ -1,0 +1,18 @@
+body{
+
+    background-color:rgba(0, 247, 255, 0.89);
+    background-image: url(pretty.jpg);
+background-repeat:no-repeat ;
+background-size: cover;
+}
+p{
+font-size: x-large;
+font-family:papyrus;
+font-style: italic;
+
+
+}
+
+h2{
+    text-align: center;
+}

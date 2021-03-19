@@ -1,0 +1,38 @@
+body{
+
+background-color: green;
+background-image: url(yeehawpony.jpg);
+background-repeat:no-repeat ;
+background-size: cover;
+    
+}
+
+h1 {
+
+    font-family: "Lucida Handwriting"
+}
+
+
+.grid{
+
+    display :flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  
+}
+
+.icon {
+
+    position: relative
+}
+
+.icon img {
+
+    padding : 40px
+}
+
+.icon p{
+
+  margin-left :90px;
+  font-size: x-large;
+}
